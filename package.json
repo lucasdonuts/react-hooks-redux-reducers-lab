@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "echo \".results.json\" && jest --watchAll"
+    "test": "echo \".results.json\" && jest --watchAll --verbose"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
